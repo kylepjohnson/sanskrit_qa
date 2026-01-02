@@ -10,7 +10,7 @@
 - Build index: `uv run build_index.py` (takes about 10 minutes with the three texts, below)
 - Ask question: `uv run qa.py` which will prompt for a question.
 
-## Examnple
+## Example
 ```
 (sanskrit_qa) kylepjohnson@Kyles-MacBook-Pro sanskrit_qa % uv run qa.py
 
